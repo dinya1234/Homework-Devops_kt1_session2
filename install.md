@@ -17,7 +17,6 @@ start index.html  # Windows
 # or
 open index.html   # Mac
 # or simply double-click index.html in file explorer
-```bash
 
 ###2. Run the Application
 Since this is a static HTML project, you can simply open index.html in any web browser.
