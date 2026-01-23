@@ -39,7 +39,7 @@ GitHub: [dinya1234](https://github.com/dinya1234)
 
 ---
 
-## Логотип проекта
+## Project Logo
 https://doc/logo.txt
 
 #*Created for educational purposes as part of DevOps course.*
