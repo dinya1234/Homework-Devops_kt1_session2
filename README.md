@@ -13,12 +13,12 @@ This is an educational project demonstrating professional Git workflow, branchin
 - GitHub Issues and Projects
 - Professional documentation
 
-## Developer
+## Developers
 
-**Vladimir**  
+**Pavlitsky Vladimir**  
 GitHub: [Voldemar18](https://github.com/Voldemar18)
 
-**Diana**  
+**Volokhova Diana**  
 GitHub: [dinya1234](https://github.com/dinya1234)
 
 ## Documentation
